@@ -1,0 +1,13 @@
+#app {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  align-items: center;
+}
+
+h1 {
+  text-align: left;
+  padding-left: 295px;
+  padding-right: 50px;
+}
